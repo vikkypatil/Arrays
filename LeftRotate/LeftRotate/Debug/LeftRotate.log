@@ -1,0 +1,3 @@
+﻿  LeftRotate.cpp
+n:\vikky\ds\arrays\leftrotate\leftrotate\leftrotate.cpp(13): warning C4715: 'gcd': not all control paths return a value
+  LeftRotate.vcxproj -> N:\Vikky\DS\Arrays\LeftRotate\Debug\LeftRotate.exe
